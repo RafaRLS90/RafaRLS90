@@ -1,4 +1,4 @@
-### Olá! Muito prazer! <h2>My name is, Rafael Lima! </h2> 👋👨🏽‍💻
+### Olá! Muito prazer! <h2>Meu nome é Rafael Lima dos Santos! </h2> 👋👨🏽‍💻
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaellimasantos0604)
 
