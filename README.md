@@ -4,6 +4,7 @@
 
 ![Rafael Lima dos Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaRLS90&show_icons=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaRLS90)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias utilizadas
 
