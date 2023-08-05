@@ -1,6 +1,7 @@
 ### Olá! Muito prazer! <h2>Meu nome é Rafael Lima dos Santos! </h2> 👋👨🏽‍💻
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaellimasantos0604)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/rafaeldevlima1990/?tab=skills)
 
 ![Rafael Lima dos Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaRLS90&show_icons=true&theme=merko)
 
@@ -16,6 +17,7 @@
 />  
 <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div></br>
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
  
 ### Sempre pensando em me desenvolver todos os dias, seja pela tecnologia ou pela arte que são coisas que amo, o fundamental, é nunca estar parado!!!
 
